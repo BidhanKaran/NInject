@@ -1,0 +1,1 @@
+C:\Users\bidha\Documents\GitHub\NInjectExampleWithWPF\NInjectExample\bin\Debug\NInjectExample.exe.config
